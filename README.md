@@ -1,7 +1,6 @@
 # Berkeley EECS RAG Question-Answering System
 
 **CS 288 (Natural Language Processing), UC Berkeley — Spring 2026**
-Ziyu Ge
 
 ---
 
